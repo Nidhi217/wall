@@ -7,7 +7,7 @@ public class vein {
 
 		
 		
-		System.out.println("yell");
+		System.out.println("kimchi");
 		
 	}
 
