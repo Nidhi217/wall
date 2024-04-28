@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author schub
+ *
+ */
+module beef {
+}
